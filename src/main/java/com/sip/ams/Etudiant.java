@@ -7,9 +7,14 @@ public class Etudiant {
 		System.out.println("Info étudiant");
 	}
 	
+
 	public void displayInfoMohamed()
 	{
 		System.out.println("Info Mohamed");
+	}
+	public void displayInfoAmine()
+	{
+
 	}
 
 
