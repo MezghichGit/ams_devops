@@ -16,6 +16,9 @@ public class Etudiant {
 	{
 
 	}
-
+    public void displayInfoFrikha()
+    {
+        System.out.println("Info frikha");
+    }
 
 }
