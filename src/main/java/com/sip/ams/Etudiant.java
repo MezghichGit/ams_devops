@@ -6,5 +6,11 @@ public class Etudiant {
 	{
 		System.out.println("Info étudiant");
 	}
+	
+	public void displayInfoAmine()
+	{
+		System.out.println("Info Amine");
+	}
+
 
 }
