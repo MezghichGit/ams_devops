@@ -14,7 +14,7 @@ public class Etudiant {
 	}
 	public void displayInfoAmine()
 	{
-
+		System.out.println("Info Amine");
 	}
     public void displayInfoFrikha()
     {
