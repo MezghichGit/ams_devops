@@ -20,5 +20,9 @@ public class Etudiant {
     {
         System.out.println("Info frikha");
     }
+    public void displayInfoArfa()
+    {
+        System.out.println("Info Arfa");
+    }
 
 }
