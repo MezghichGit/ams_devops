@@ -9,7 +9,7 @@ public class AmsDevopsApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(AmsDevopsApplication.class, args);
 		System.out.println("Hello Devops");
-		System.out.println("Hello Devops : V2");
+		System.out.println("Hello Devops : V3");
 	}
 
 }
